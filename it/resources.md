@@ -11,11 +11,11 @@ Il gruppo *Multilingue DH* aggrega e sviluppa risorse per lavorare con lingue no
 
 ## Risorse per più lingue
 
-- Il *gruppo DH multilingue* ha messo insieme un elenco di [risorse per fare l'elaborazione in linguaggio naturale in molti lingue](https://github.com/multilingual-dh/nlp-resources)
+- Il *gruppo DH multilingue* ha creato un elenco di [risorse per NLP in molti lingue](https://github.com/multilingual-dh/nlp-resources)
 
 ## Risorse per lingue specifiche
 
 - Giapponese
-  - [Digital Humanities Japan](http://dhjapan.org/) ha un [wiki per strumenti digitali progettati per funzionare con Giapponese](http://dhjapan.org/wiki/doku.php?id=tools)
+  - [Digital Humanities Japan](http://dhjapan.org/) ha messo a disposizione un [wiki per strumenti digitali progettati per funzionare con il Giapponese](http://dhjapan.org/wiki/doku.php?id=tools)
 - Russo
-  - Le discipline umanistiche digitali [PNL russa gruppo](https://russiannlp.sites.stanford.edu) sta scrivendo [descrizioni di strumenti e librerie progettate per funzionare con Russa](https://russiannlp.sites.stanford.edu/resources)
+  - Le discipline umanistiche digitali [PNL](https://russiannlp.sites.stanford.edu) sta al momento creando delle [descrizioni di strumenti e librerie progettate per il Russo](https://russiannlp.sites.stanford.edu/resources)
